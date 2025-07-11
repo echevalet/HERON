@@ -1,0 +1,38 @@
+numpy==1.24.3
+faiss-cpu==1.7.4
+PyMuPDF==1.23.8
+requests>=2.31.0
+openai>=1.12.0
+langchain>=0.1.12
+python-dotenv>=1.0.0
+reportlab>=4.0.0
+psutil>=5.9.0
+Pillow>=10.0.0
+pytesseract>=0.3.10
+pdf2image>=1.16.3
+opencv-python>=4.8.0
+pdfplumber>=0.10.0
+python-docx>=0.8.11
+python-pptx>=0.6.21
+openpyxl>=3.1.2
+pandas>=2.0.0
+duckduckgo-search>=4.1.1
+tiktoken>=0.5.0
+sentence-transformers>=2.2.2
+SpeechRecognition>=3.10.0
+pydub>=0.25.1
+openai-whisper>=20231117
+
+# Add FFmpeg Python wrapper
+ffmpeg-python>=0.2.0
+
+# Add these new dependencies
+librosa>=0.10.0
+soundfile>=0.12.0
+
+# Update these versions for better compatibility
+torch>=2.0.0
+transformers>=4.30.0
+
+# Translation support
+deep-translator>=1.11.0
